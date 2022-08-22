@@ -1,0 +1,76 @@
+
+body{
+  /* background-color: #ffebcd; */
+  background-color: #EDD2F3;
+  /* margin-left: 50px; */
+  }
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 50%;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+
+.Intro{
+  background-color: #EDD2F3;
+  margin-left: 300px;
+}
+
+.Edu{
+  margin-left: 90px;
+}
+
+.Hob{
+  margin-left: 90px;
+}
+
+.vol{
+  margin-left: 90px;
+}
+
+.ach{
+  margin-left: 90px;
+}
+
+.Skill{
+  margin-left: 90px;
+}
+
+.cer{
+  margin-left: 90px;
+}
+
+.Prom{
+  margin-left: 90px;
+}
+
+.lang{
+  margin-left: 90px;
+}
+
+.contact{
+  margin-left: 90px;
+}
+
+.sch{
+  margin-left: 450px;
+}
+
+.col{
+  margin-left: 402px;
+}
+
+.pal{
+  margin-left: 202px;
+}
+
+.com{
+  margin-left: 390px;
+}
